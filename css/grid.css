@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+[class*='col-'] {
+  float: left;
+}
+
+.col-1_2 { width: 50%}
+.col-2_2 { width: 100%}
